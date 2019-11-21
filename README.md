@@ -20,3 +20,4 @@
 * Step 5. Git commit
 * Step 6. Push the branch
 * Step 7. Make "Pull request"
+The end 
